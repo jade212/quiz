@@ -1,0 +1,12 @@
+html {
+    background: url("img/sakuraco_cherry-blossom-drawing-thumbnail.png") no-repeat center fixed;
+    background-size:cover
+}
+
+body {
+    background-color: azure;
+    border-radius: 15px;
+    width: 600px;
+    margin: 25px auto;
+    padding: 25px 150px 50px
+}
